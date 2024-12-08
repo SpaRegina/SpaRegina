@@ -24,10 +24,11 @@
 ---
 
 ## 🚀 Проекты
+- [Тренинг-проект - Ростелеком Информационные Технологии](https://github.com/SpaRegina/Rostelecom.git)
+- [Тренинг-проект - СКАН-Интерфакс](https://github.com/SpaRegina/Scan_interfax.git)
+- [Тренинг-проект - Парсинг данных сайта Яндекс.Погода](https://github.com/SpaRegina/Yandex.Weather-website-data-parser.git)
+- [Хакатон - Тестирование API игрового магазина](https://github.com/SpaRegina/Bug_Hunters.git)
 
-
-- [Тестирование API игрового магазина](https://github.com/SpaRegina/Bug_Hunters.git)
-- [Парсинг данных сайта Яндекс.Погода](https://github.com/SpaRegina/Yandex.Weather-website-data-parser.git)
 
 ---
 
