@@ -1,16 +1,37 @@
-## Hi there 👋
+Привет, меня зовут Регина!
 
-<!--
-**SpaRegina/SpaRegina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🧑‍💻 Обо мне
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Я веб-разработчик и тестировщик-автоматизатор. Мой путь в тестировании начался с глубокого изучения Python и создания тестовой документации. С тех пор я развиваюсь в автоматизации и тестировании веб-приложений, мобильных приложений и API. 
+
+Я участвовала в хакатонах и тренинг-проектах. Сейчас я ищу новые возможности для профессионального роста и участия в интересных проектах.
+
+---
+
+## 🛠 Технологии:
+
+![Python](https://img.shields.io/badge/-Python-464646?style=flat-square&logo=python)
+![Selenium](https://img.shields.io/badge/-Selenium-464646?style=flat-square&logo=selenium)
+![Postman](https://img.shields.io/badge/-Postman-464646?style=flat-square&logo=postman)
+![SQL](https://img.shields.io/badge/-SQL-464646?style=flat-square&logo=postgresql)
+![PyTest](https://img.shields.io/badge/-PyTest-464646?style=flat-square&logo=pytest)
+![HTML](https://img.shields.io/badge/-HTML-464646?style=flat-square&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-464646?style=flat-square&logo=css3)
+![Android Studio](https://img.shields.io/badge/-Android_Studio-464646?style=flat-square&logo=android)
+
+---
+
+## 🚀 Проекты
+
+
+- [Тестирование API игрового магазина](https://github.com/SpaRegina/Bug_Hunters.git)
+- [Парсинг данных сайта Яндекс.Погода](https://github.com/SpaRegina/Yandex.Weather-website-data-parser.git)
+
+---
+
+## 📞 Контакты
+
+- 📧 E-mail: r.g.spaschenko@gmail.com
+- 📱 Telegram: [@Sp_R_G](https://t.me/Sp_R_G)
