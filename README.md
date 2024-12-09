@@ -27,7 +27,6 @@
 <a href="https://docs.pytest.org/en/stable/" style="text-decoration: none;"><img src="https://img.shields.io/badge/-PyTest-464646?style=flat-square&logo=pytest" alt="PyTest"></a>
 <a href="https://git-scm.com" style="text-decoration: none;"><img src="https://img.shields.io/badge/-Git-464646?style=flat-square&logo=git" alt="Git"></a>
 <a href="https://github.com" style="text-decoration: none;"><img src="https://img.shields.io/badge/-GitHub-464646?style=flat-square&logo=github" alt="GitHub"></a>
-<a href="https://www.docker.com" style="text-decoration: none;"><img src="https://img.shields.io/badge/-Docker-464646?style=flat-square&logo=docker" alt="Docker"></a>
 <a href="https://developer.chrome.com/docs/devtools/" style="text-decoration: none;"><img src="https://img.shields.io/badge/-Chrome%20DevTools-464646?style=flat-square&logo=googlechrome" alt="Chrome DevTools"></a>
 <a href="https://coggle.it" style="text-decoration: none;"><img src="https://img.shields.io/badge/-MindMap-464646?style=flat-square&logo=mind" alt="MindMap"></a>
 <a href="https://github.com/microsoft/pict" style="text-decoration: none;"><img src="https://img.shields.io/badge/-Pairwise%20Pict-464646?style=flat-square&logo=pict" alt="Pairwise Pict"></a>
