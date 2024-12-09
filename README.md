@@ -6,48 +6,50 @@
 
 ---
 
-## 🛠 Инструменты и технологии:
+## 🔧 Инструменты и технологии:
 
 ### Технологии:
-![Python](https://img.shields.io/badge/-Python-464646?style=flat-square&logo=python)
-![Selenium](https://img.shields.io/badge/-Selenium-464646?style=flat-square&logo=selenium)
-![Postman](https://img.shields.io/badge/-Postman-464646?style=flat-square&logo=postman)
-![SQL](https://img.shields.io/badge/-SQL-464646?style=flat-square&logo=postgresql)
-![Swagger](https://img.shields.io/badge/-Swagger-464646?style=flat-square&logo=swagger)
-![HTML](https://img.shields.io/badge/-HTML-464646?style=flat-square&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-464646?style=flat-square&logo=css3)
-![Xcode](https://img.shields.io/badge/-Xcode-464646?style=flat-square&logo=xcode)
-![Android Studio](https://img.shields.io/badge/-Android_Studio-464646?style=flat-square&logo=android)
+- [Python](https://www.python.org)  
+- [Selenium](https://www.selenium.dev)  
+- [Postman](https://www.postman.com)  
+- [SQL (PostgreSQL)](https://www.postgresql.org)  
+- [Swagger](https://swagger.io)  
+- [HTML](https://developer.mozilla.org/ru/docs/Web/HTML)  
+- [CSS](https://developer.mozilla.org/ru/docs/Web/CSS)  
+- [Xcode](https://developer.apple.com/xcode/)  
+- [Android Studio](https://developer.android.com/studio)
 
 ### Инструменты:
-![PyTest](https://img.shields.io/badge/-PyTest-464646?style=flat-square&logo=pytest)
-![Git](https://img.shields.io/badge/-Git-464646?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-464646?style=flat-square&logo=github)
-![Chrome DevTools](https://img.shields.io/badge/-Chrome%20DevTools-464646?style=flat-square&logo=googlechrome)
-![MindMap](https://img.shields.io/badge/-MindMap-464646?style=flat-square&logo=mind)
-![Pairwise Pict](https://img.shields.io/badge/-Pairwise%20Pict-464646?style=flat-square&logo=pict)
+- [PyTest](https://docs.pytest.org/en/stable/)  
+- [Git](https://git-scm.com)  
+- [GitHub](https://github.com)  
+- [Chrome DevTools](https://developer.chrome.com/docs/devtools/)  
+- [Mind Maps](https://coggle.it)  
+- [Pairwise Testing with PICT](https://github.com/microsoft/pict)
 
 ---
 
-## ![free-icon-desk-4311615](https://github.com/user-attachments/assets/b7762028-cfa0-4d59-a7bb-98240e02ae1a) Проекты
+## ![project-icon](https://img.shields.io/badge/-Проекты-464646?style=flat-square&logo=kanban&logoColor=white) Проекты
 
-
-- [Тренинг-проект - Ростелеком Информационные Технологи](https://github.com/SpaRegina/Rostelecom.git)
-- [Тренинг-проект - СКАН-Интерфакс](https://github.com/SpaRegina/Scan_interfax.git)
-- [Тренинг-проект - Парсинг данных сайта Яндекс.Погода](https://github.com/SpaRegina/Yandex.Weather-website-data-parser.git)
+- [Тренинг-проект - Ростелеком Информационные Технологии](https://github.com/SpaRegina/Rostelecom.git)  
+- [Тренинг-проект - СКАН-Интерфакс](https://github.com/SpaRegina/Scan_interfax.git)  
+- [Тренинг-проект - Парсинг данных сайта Яндекс.Погода](https://github.com/SpaRegina/Yandex.Weather-website-data-parser.git)  
 - [Хакатон - Тестирование API игрового магазина](https://github.com/SpaRegina/Bug_Hunters.git)
 
 ---
 
 ## 🎓 Образование
 
-- **ООО "Скилфэктори", г. Москва**
-  - [Веб-разработчик на Python (ноябрь 2023)](https://drive.google.com/file/d/1-1cpZwiatxHbslT7GbPrwXMA18kKhTox/view?usp=drive_link)
+- **ООО "Скилфэктори", г. Москва**  
+  - [Веб-разработчик на Python (ноябрь 2023)](https://drive.google.com/file/d/1-1cpZwiatxHbslT7GbPrwXMA18kKhTox/view?usp=drive_link)  
   - [Тестировщик-автоматизатор на Python (QAP) (ноябрь 2024)](https://drive.google.com/file/d/1pZO5YZrPgXLjRE6ZMou3V4YQ_pc64R0T/view?usp=drive_link)
 
 ---
 
-## 📞 Контакты
+## 📲 Контакты
 
-- 📧 E-mail: [r.g.spaschenko@gmail.com](mailto:r.g.spaschenko@gmail.com)
+- 📧 E-mail: [r.g.spaschenko@gmail.com](mailto:r.g.spaschenko@gmail.com)  
 - 📱 Telegram: [@Sp_R_G](https://t.me/Sp_R_G)
+
+---
+
