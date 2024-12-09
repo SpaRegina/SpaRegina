@@ -31,7 +31,7 @@
 
 ## ![project-icon](https://img.shields.io/badge/Проекты-FFD700?style=for-the-badge&logo=desktopcomputer&logoColor=black) Проекты
 
-- [![Ростелеком](https://github.com/SpaRegina/Rostelecom.git)
+- [Ростелеком](https://github.com/SpaRegina/Rostelecom.git)
 - [![СКАН-Интерфакс](https://img.shields.io/badge/СКАН_Интерфакс-FF4500?style=for-the-badge)](https://github.com/SpaRegina/Scan_interfax.git)
 - [![Яндекс.Погода](https://img.shields.io/badge/Парсинг_Яндекс.Погода-008080?style=for-the-badge)](https://github.com/SpaRegina/Yandex.Weather-website-data-parser.git)
 - [![API Магазина](https://img.shields.io/badge/API_Магазина-6A5ACD?style=for-the-badge)](https://github.com/SpaRegina/Bug_Hunters.git)
