@@ -23,14 +23,13 @@
 ![PyTest](https://img.shields.io/badge/-PyTest-464646?style=flat-square&logo=pytest)
 ![Git](https://img.shields.io/badge/-Git-464646?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-464646?style=flat-square&logo=github)
-![Docker](https://img.shields.io/badge/-Docker-464646?style=flat-square&logo=docker)
 ![Chrome DevTools](https://img.shields.io/badge/-Chrome%20DevTools-464646?style=flat-square&logo=googlechrome)
 ![MindMap](https://img.shields.io/badge/-MindMap-464646?style=flat-square&logo=mind)
 ![Pairwise Pict](https://img.shields.io/badge/-Pairwise%20Pict-464646?style=flat-square&logo=pict)
 
 ---
 
-## ![free-icon-desktop-8142072](https://github.com/user-attachments/assets/7615ac3f-71e9-4291-9485-50fe714b0fbd) Проекты
+## ![free-icon-desk-4311615](https://github.com/user-attachments/assets/b7762028-cfa0-4d59-a7bb-98240e02ae1a) Проекты
 
 
 - [Тренинг-проект - Ростелеком Информационные Технологи](https://github.com/SpaRegina/Rostelecom.git)
