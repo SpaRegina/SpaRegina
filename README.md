@@ -6,29 +6,34 @@
 
 ---
 
-## 🔧 Инструменты и технологии:
+<div style="background-color: black; padding: 20px; color: white;">
 
-### 🖥️ Технологии:
+## 🛠 Инструменты и технологии:
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-FFCC00?style=for-the-badge&logo=database&logoColor=black)  
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)  
-![Nginx](https://img.shields.io/badge/Nginx-269539?style=for-the-badge&logo=nginx&logoColor=white)  
-![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)  
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)  
+### Технологии:
 
-### 🛠️ Инструменты:
+<a href="https://www.python.org" style="text-decoration: none;"><img src="https://img.shields.io/badge/-Python-464646?style=flat-square&logo=python" alt="Python"></a>
+<a href="https://www.selenium.dev" style="text-decoration: none;"><img src="https://img.shields.io/badge/-Selenium-464646?style=flat-square&logo=selenium" alt="Selenium"></a>
+<a href="https://www.postman.com" style="text-decoration: none;"><img src="https://img.shields.io/badge/-Postman-464646?style=flat-square&logo=postman" alt="Postman"></a>
+<a href="https://www.postgresql.org" style="text-decoration: none;"><img src="https://img.shields.io/badge/-SQL-464646?style=flat-square&logo=postgresql" alt="SQL"></a>
+<a href="https://swagger.io" style="text-decoration: none;"><img src="https://img.shields.io/badge/-Swagger-464646?style=flat-square&logo=swagger" alt="Swagger"></a>
+<a href="https://developer.mozilla.org/ru/docs/Web/HTML" style="text-decoration: none;"><img src="https://img.shields.io/badge/-HTML-464646?style=flat-square&logo=html5" alt="HTML"></a>
+<a href="https://developer.mozilla.org/ru/docs/Web/CSS" style="text-decoration: none;"><img src="https://img.shields.io/badge/-CSS-464646?style=flat-square&logo=css3" alt="CSS"></a>
+<a href="https://developer.apple.com/xcode/" style="text-decoration: none;"><img src="https://img.shields.io/badge/-Xcode-464646?style=flat-square&logo=xcode" alt="Xcode"></a>
+<a href="https://developer.android.com/studio" style="text-decoration: none;"><img src="https://img.shields.io/badge/-Android_Studio-464646?style=flat-square&logo=android" alt="Android Studio"></a>
 
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)  
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
+### Инструменты:
+
+<a href="https://docs.pytest.org/en/stable/" style="text-decoration: none;"><img src="https://img.shields.io/badge/-PyTest-464646?style=flat-square&logo=pytest" alt="PyTest"></a>
+<a href="https://git-scm.com" style="text-decoration: none;"><img src="https://img.shields.io/badge/-Git-464646?style=flat-square&logo=git" alt="Git"></a>
+<a href="https://github.com" style="text-decoration: none;"><img src="https://img.shields.io/badge/-GitHub-464646?style=flat-square&logo=github" alt="GitHub"></a>
+<a href="https://www.docker.com" style="text-decoration: none;"><img src="https://img.shields.io/badge/-Docker-464646?style=flat-square&logo=docker" alt="Docker"></a>
+<a href="https://developer.chrome.com/docs/devtools/" style="text-decoration: none;"><img src="https://img.shields.io/badge/-Chrome%20DevTools-464646?style=flat-square&logo=googlechrome" alt="Chrome DevTools"></a>
+<a href="https://coggle.it" style="text-decoration: none;"><img src="https://img.shields.io/badge/-MindMap-464646?style=flat-square&logo=mind" alt="MindMap"></a>
+<a href="https://github.com/microsoft/pict" style="text-decoration: none;"><img src="https://img.shields.io/badge/-Pairwise%20Pict-464646?style=flat-square&logo=pict" alt="Pairwise Pict"></a>
+
+</div>
+
 
 ---
 
