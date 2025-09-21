@@ -42,6 +42,7 @@
 - [Тренинг-проект - СКАН-Интерфакс](https://github.com/SpaRegina/Scan_interfax.git)
 - [Тренинг-проект - Парсинг данных сайта Яндекс.Погода](https://github.com/SpaRegina/Yandex.Weather-website-data-parser.git)
 - [Хакатон - Тестирование API игрового магазина](https://github.com/SpaRegina/Bug_Hunters.git)
+- [EduComicsAI - проект по автоматической генерации комиксов из текста с помощью ИИ](https://github.com/SpaRegina/Education_Comics_AI.git)
 
 ---
 
