@@ -13,6 +13,7 @@
 ### Технологии:
 
 <a href="https://www.python.org" style="text-decoration: none;"><img src="https://img.shields.io/badge/-Python-464646?style=flat-square&logo=python" alt="Python"></a>
+<a href="https://www.java.com" style="text-decoration: none;"><img src="https://img.shields.io/badge/-Java-464646?style=flat-square&logo=openjdk" alt="Java"></a>
 <a href="https://www.selenium.dev" style="text-decoration: none;"><img src="https://img.shields.io/badge/-Selenium-464646?style=flat-square&logo=selenium" alt="Selenium"></a>
 <a href="https://www.postman.com" style="text-decoration: none;"><img src="https://img.shields.io/badge/-Postman-464646?style=flat-square&logo=postman" alt="Postman"></a>
 <a href="https://www.postgresql.org" style="text-decoration: none;"><img src="https://img.shields.io/badge/-SQL-464646?style=flat-square&logo=postgresql" alt="SQL"></a>
@@ -25,6 +26,9 @@
 ### Инструменты:
 
 <a href="https://docs.pytest.org/en/stable/" style="text-decoration: none;"><img src="https://img.shields.io/badge/-PyTest-464646?style=flat-square&logo=pytest" alt="PyTest"></a>
+<a href="https://www.atlassian.com/software/jira" style="text-decoration: none;"><img src="https://img.shields.io/badge/-Jira-464646?style=flat-square&logo=jira" alt="Jira"></a>
+<a href="https://www.atlassian.com/software/confluence" style="text-decoration: none;"><img src="https://img.shields.io/badge/-Confluence-464646?style=flat-square&logo=confluence" alt="Confluence"></a>
+<a href="https://qameta.io/allure-report/" style="text-decoration: none;"><img src="https://img.shields.io/badge/-Allure-464646?style=flat-square&logo=allurereport" alt="Allure"></a>
 <a href="https://git-scm.com" style="text-decoration: none;"><img src="https://img.shields.io/badge/-Git-464646?style=flat-square&logo=git" alt="Git"></a>
 <a href="https://github.com" style="text-decoration: none;"><img src="https://img.shields.io/badge/-GitHub-464646?style=flat-square&logo=github" alt="GitHub"></a>
 <a href="https://developer.chrome.com/docs/devtools/" style="text-decoration: none;"><img src="https://img.shields.io/badge/-Chrome%20DevTools-464646?style=flat-square&logo=googlechrome" alt="Chrome DevTools"></a>
