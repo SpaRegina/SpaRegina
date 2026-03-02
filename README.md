@@ -48,6 +48,7 @@
 - [Хакатон - Тестирование API игрового магазина](https://github.com/SpaRegina/Bug_Hunters.git)
 - [EduComicsAI - Проект по автоматической генерации комиксов из текста с помощью ИИ](https://github.com/SpaRegina/Education_Comics_AI.git)
 - [Хакатон - AI-помощник 3D-принтера](https://github.com/SpaRegina/AI_assistant_for_3D_printers.git)
+- [Кейс-чемпионат - Инновационные решения для онкологии](https://github.com/SpaRegina/AI-assistant-OncoCheck.git)
 
 ---
 
