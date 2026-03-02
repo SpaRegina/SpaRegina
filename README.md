@@ -54,6 +54,8 @@
 
 ## 🎓 Образование
 
+- **ООО "Астон Образование", г. Москва**
+  - [System Analysis (март 2025)](https://drive.google.com/file/d/1a3nGcd5qaNBnFGHXcRWVcgXWUmWezVNS/view?usp=sharing)
 - **ООО "Скилфэктори", г. Москва**
   - [Веб-разработчик на Python (ноябрь 2023)](https://drive.google.com/file/d/1-1cpZwiatxHbslT7GbPrwXMA18kKhTox/view?usp=drive_link)
   - [Тестировщик-автоматизатор на Python (QAP) (ноябрь 2024)](https://drive.google.com/file/d/1pZO5YZrPgXLjRE6ZMou3V4YQ_pc64R0T/view?usp=drive_link)
