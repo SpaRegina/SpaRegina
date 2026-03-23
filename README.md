@@ -53,7 +53,7 @@
 
 
 
-## 🖥️ Проекты:
+## 🖥️ Ппримеры проектов:
 
 - [Тренинг-проект - Ростелеком Информационные Технологии](https://github.com/SpaRegina/Rostelecom.git)
 - [Тренинг-проект - СКАН-Интерфакс](https://github.com/SpaRegina/Scan_interfax.git)
