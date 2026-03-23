@@ -6,45 +6,50 @@
 
 ---
 
+<div style="background-color: black; padding: 20px; color: white;">
+
 ## 🛠 Стек и инструменты
 
 ### Языки и разработка
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org)
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://www.java.com)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/ru/docs/Web/JavaScript)
-[![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/ru/docs/Web/HTML)
-[![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/ru/docs/Web/CSS)
-[![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)](https://www.djangoproject.com/)
+<a href="https://www.python.org" style="text-decoration: none;"><img src="https://img.shields.io/badge/-Python-464646?style=flat-square&logo=python" alt="Python"></a>
+<a href="https://www.java.com" style="text-decoration: none;"><img src="https://img.shields.io/badge/-Java-464646?style=flat-square&logo=openjdk" alt="Java"></a>
+<a href="https://developer.mozilla.org/ru/docs/Web/JavaScript" style="text-decoration: none;"><img src="https://img.shields.io/badge/-JavaScript-464646?style=flat-square&logo=javascript" alt="JavaScript"></a>
+<a href="https://developer.mozilla.org/ru/docs/Web/HTML" style="text-decoration: none;"><img src="https://img.shields.io/badge/-HTML-464646?style=flat-square&logo=html5" alt="HTML"></a>
+<a href="https://developer.mozilla.org/ru/docs/Web/CSS" style="text-decoration: none;"><img src="https://img.shields.io/badge/-CSS-464646?style=flat-square&logo=css3" alt="CSS"></a>
+<a href="https://www.djangoproject.com/" style="text-decoration: none;"><img src="https://img.shields.io/badge/-Django-464646?style=flat-square&logo=django" alt="Django"></a>
 
 ### AI / CV
 
-[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org/)
-[![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)](https://opencv.org/)
-[![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=qgis&logoColor=white)](https://qgis.org/)
-[![Roboflow](https://img.shields.io/badge/Roboflow-6706CE?style=flat-square&logo=roboflow&logoColor=white)](https://roboflow.com/)
+<a href="https://pytorch.org/" style="text-decoration: none;"><img src="https://img.shields.io/badge/-PyTorch-464646?style=flat-square&logo=pytorch" alt="PyTorch"></a>
+<a href="https://opencv.org/" style="text-decoration: none;"><img src="https://img.shields.io/badge/-OpenCV-464646?style=flat-square&logo=opencv" alt="OpenCV"></a>
+<a href="https://qgis.org/" style="text-decoration: none;"><img src="https://img.shields.io/badge/-QGIS-464646?style=flat-square&logo=qgis" alt="QGIS"></a>
+<a href="https://roboflow.com/" style="text-decoration: none;"><img src="https://img.shields.io/badge/-Roboflow-464646?style=flat-square&logo=roboflow" alt="Roboflow"></a>
 
 ### QA / API / Tools
 
-[![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)](https://www.selenium.dev)
-[![PyTest](https://img.shields.io/badge/PyTest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)](https://docs.pytest.org/en/stable/)
-[![TestNG](https://img.shields.io/badge/TestNG-D22128?style=flat-square&logo=testng&logoColor=white)](https://testng.org/)
-[![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)](https://maven.apache.org/)
-[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)](https://www.postman.com)
-[![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)](https://swagger.io)
-[![Allure](https://img.shields.io/badge/Allure-8A4182?style=flat-square&logo=allurereport&logoColor=white)](https://allurereport.org/)
-[![Charles Proxy](https://img.shields.io/badge/Charles_Proxy-F3F5F5?style=flat-square&logoColor=black)](https://www.charlesproxy.com/)
-[![TestOps](https://img.shields.io/badge/TestOps-2E8B57?style=flat-square&logoColor=white)](https://qameta.io/)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
-[![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com)
-[![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)](https://about.gitlab.com/)
-[![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
-[![TestRail](https://img.shields.io/badge/TestRail-65C179?style=flat-square&logoColor=white)](https://www.testrail.com/)
-[![Chrome DevTools](https://img.shields.io/badge/DevTools-4285F4?style=flat-square&logo=googlechrome&logoColor=white)](https://developer.chrome.com/docs/devtools/)
-[![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)](https://developer.android.com/studio)
+<a href="https://www.selenium.dev" style="text-decoration: none;"><img src="https://img.shields.io/badge/-Selenium-464646?style=flat-square&logo=selenium" alt="Selenium"></a>
+<a href="https://docs.pytest.org/en/stable/" style="text-decoration: none;"><img src="https://img.shields.io/badge/-PyTest-464646?style=flat-square&logo=pytest" alt="PyTest"></a>
+<a href="https://testng.org/" style="text-decoration: none;"><img src="https://img.shields.io/badge/-TestNG-464646?style=flat-square" alt="TestNG"></a>
+<a href="https://maven.apache.org/" style="text-decoration: none;"><img src="https://img.shields.io/badge/-Maven-464646?style=flat-square&logo=apachemaven" alt="Maven"></a>
+<a href="https://www.postman.com" style="text-decoration: none;"><img src="https://img.shields.io/badge/-Postman-464646?style=flat-square&logo=postman" alt="Postman"></a>
+<a href="https://swagger.io" style="text-decoration: none;"><img src="https://img.shields.io/badge/-Swagger-464646?style=flat-square&logo=swagger" alt="Swagger"></a>
+<a href="https://allurereport.org/" style="text-decoration: none;"><img src="https://img.shields.io/badge/-Allure-464646?style=flat-square" alt="Allure"></a>
+<a href="https://www.charlesproxy.com/" style="text-decoration: none;"><img src="https://img.shields.io/badge/-Charles%20Proxy-464646?style=flat-square" alt="Charles Proxy"></a>
+<a href="https://qameta.io/" style="text-decoration: none;"><img src="https://img.shields.io/badge/-TestOps-464646?style=flat-square" alt="TestOps"></a>
+<a href="https://www.docker.com/" style="text-decoration: none;"><img src="https://img.shields.io/badge/-Docker-464646?style=flat-square&logo=docker" alt="Docker"></a>
+<a href="https://git-scm.com" style="text-decoration: none;"><img src="https://img.shields.io/badge/-Git-464646?style=flat-square&logo=git" alt="Git"></a>
+<a href="https://github.com" style="text-decoration: none;"><img src="https://img.shields.io/badge/-GitHub-464646?style=flat-square&logo=github" alt="GitHub"></a>
+<a href="https://about.gitlab.com/" style="text-decoration: none;"><img src="https://img.shields.io/badge/-GitLab-464646?style=flat-square&logo=gitlab" alt="GitLab"></a>
+<a href="https://www.atlassian.com/software/jira" style="text-decoration: none;"><img src="https://img.shields.io/badge/-Jira-464646?style=flat-square&logo=jira" alt="Jira"></a>
+<a href="https://www.testrail.com/" style="text-decoration: none;"><img src="https://img.shields.io/badge/-TestRail-464646?style=flat-square" alt="TestRail"></a>
+<a href="https://developer.chrome.com/docs/devtools/" style="text-decoration: none;"><img src="https://img.shields.io/badge/-DevTools-464646?style=flat-square&logo=googlechrome" alt="DevTools"></a>
+<a href="https://developer.android.com/studio" style="text-decoration: none;"><img src="https://img.shields.io/badge/-Android%20Studio-464646?style=flat-square&logo=androidstudio" alt="Android Studio"></a>
+
+</div>
 
 ---
+
 
 
 ## 🖥️ Проекты:
